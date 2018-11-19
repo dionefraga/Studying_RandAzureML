@@ -1,0 +1,61 @@
+* Big Data Analytics com R e Microsoft Azure Machine Learning
+
+consulta = 
+ R Bloggers
+ R pubs
+ O estatístico
+ * R consortion
+ R (Oracle e Microsoft investindo)
+
+Big Data Analytics
+1. Qual seu objetivo?
+2. Qual a origem dos dados?
+3. Que solução escolher? (De analytics)
+4. Será um trabalhoem equipe? 
+5. Qual o impacto que o Big Data Analytics terá no negócio?
+
+Big Data Analytics na Saúde
+* Combate a doenças e epidemias = 
+   pistas para compreender o desenvolvimento de doenças
+   melhorar a assistência evitando internação
+* Dispositivos móveis de monitoramento
+* Atendimento médico individualizado
+* Wearables e apps
+   comprometimento com o bem-estar (monitoramento de sinais vitais em smartphones)
+
+Big Data Analytics = estatística + matemática + mídias sociais + macroeconomia + tecnologia + dados
+- encontrar padrões, indicativos de tendencias, e bases para inovacao
+- prever como cada variavel interage com as outras quando alteradas e automatizar processo
+sebastian raschka
+randy olson
+hillary mason
+mike bostoke
+roger peng
+andreas mueller
+
+git - branch
+	- clone
+	- commit
+	- fork - copia para seguir em uma nova geração
+	- master
+	- merge
+	- pull
+	- push
+	
+#############################################################################################################################
+2.R Fundamentos - Parte 1
+
+Help = help.search(), ??nome função, RSiteSearch(), example()
+Demonstração = demo()
+Sessão = sessionInfo()
+
+na - not available
+nan - not a number
+
+
+
+#############################################################################################################################
+
+3. R Fundamentos - Parte 2
+
+fread(arquivo) alta performance em leitura de arquivos
